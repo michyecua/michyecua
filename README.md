@@ -40,11 +40,11 @@
 * **Objective:** Lead a forensic investigation into a ransomware outbreak.
 * **Impact:** Identified the entry point of a credential-stuffing attack and mapped the kill chain of the P01s0n1vy APT group, preventing further data exfiltration.
 
-#### 🦎 [Project: MegaQuagga Security Lifecycle](LINK_TO_REPO)
+#### 🦎 [Project: MegaQuagga Security Lifecycle](https://github.com/michyecua/MEGAQUAGGA-VULNERABILITY-ASSESSMENT.git)
 * **Objective:** Full-scale vulnerability assessment and remediation for a publishing firm.
 * **Impact:** Reduced attack surface by 85% through strategic patching and the deployment of a Web Application Firewall (WAF) to block SQLi and XSS attempts.
 
-#### 🌿 [Project: Yagé Botanicals Modernization][https://github.com/michyecua/Yag-Botanicals]
+#### 🌿 [Project: Yagé Botanicals Modernization](https://github.com/michyecua/Yag-Botanicals.git)
 * **Objective:** Design a secure, scalable network architecture for a growing business.
 * **Impact:** Authored a modernization proposal that integrated cloud-first security principles and robust firewall policies.
 
