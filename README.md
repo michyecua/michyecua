@@ -36,7 +36,7 @@
 
 ### 📂 Featured Project Deep-Dives
 
-#### 🏢 [Project: Wayne Enterprises Incident Triage](LINK_TO_REPO)
+#### 🏢 [Project: Wayne Enterprises Incident Triage](https://github.com/michyecua/Wayne-Enterprises-Incident-Triage.git)
 * **Objective:** Lead a forensic investigation into a ransomware outbreak.
 * **Impact:** Identified the entry point of a credential-stuffing attack and mapped the kill chain of the P01s0n1vy APT group, preventing further data exfiltration.
 
@@ -44,7 +44,7 @@
 * **Objective:** Full-scale vulnerability assessment and remediation for a publishing firm.
 * **Impact:** Reduced attack surface by 85% through strategic patching and the deployment of a Web Application Firewall (WAF) to block SQLi and XSS attempts.
 
-#### 🌿 [Project: Yagé Botanicals Modernization] [](url)
+#### 🌿 [Project: Yagé Botanicals Modernization][https://github.com/michyecua/Yag-Botanicals]
 * **Objective:** Design a secure, scalable network architecture for a growing business.
 * **Impact:** Authored a modernization proposal that integrated cloud-first security principles and robust firewall policies.
 
@@ -57,4 +57,5 @@
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/michelle-vera-rodriguez-1b533b108/
+- **LinkedIn:** [Insert Your LinkedIn Link]
+- **Email:** [Insert Your Email]
