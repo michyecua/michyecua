@@ -58,4 +58,3 @@
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/michelle-vera-rodriguez-1b533b108/)
-- [Email](michyecua1@gmail.com)
